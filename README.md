@@ -34,6 +34,7 @@ C++ | intermediate | prefer
 
 ### Laguages/data insight I want to learn
 + learn Data via R and python
++ Html
 
 ### Favorite songs
 + Caresse Sur l'ocean
